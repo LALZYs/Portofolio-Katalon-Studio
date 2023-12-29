@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 07 - User login sebagai admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e7a7b9b-6677-47c9-a34a-fcbad7e4ceab</testCaseGuid>
+</TestCaseEntity>

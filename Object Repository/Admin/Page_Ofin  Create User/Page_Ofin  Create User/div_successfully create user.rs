@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_successfully create user</name>
+   <tag></tag>
+   <elementGuidId>97f51715-d9b2-4663-a77e-fd23ebd5b250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='success-alert']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#success-alert</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b675c6d-3b74-40c3-8840-db8f788d79fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-primary</value>
+      <webElementGuid>f89b8783-b9e5-4d33-99f9-f761cfc2b043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>success-alert</value>
+      <webElementGuid>eb2f5f62-841e-462a-aa6f-a28e4a714203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>1dc0b359-2668-40b4-91cd-423d7dcba394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+           successfully create user
+         </value>
+      <webElementGuid>32ff68e4-b42d-4d05-be0f-42f8e53c188e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;success-alert&quot;)</value>
+      <webElementGuid>27e59f17-dc96-4996-855c-62d3a06b014c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='success-alert']</value>
+      <webElementGuid>73d36cac-8bc4-449c-bb93-6c11bbc3cb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User'])[1]/following::div[4]</value>
+      <webElementGuid>891cbe2b-2ea0-4b37-b114-fa3845031ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[17]</value>
+      <webElementGuid>6321e813-b27b-4b45-b040-f5819f98c389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='failed create user'])[1]/preceding::div[1]</value>
+      <webElementGuid>69c6327b-2014-4f8d-a927-8df8b8df0175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='successfully create user']/parent::*</value>
+      <webElementGuid>272e77fc-fc8a-4bcd-b232-cc478b7f85c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>f265c974-c804-4d10-80a6-77a870e898a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'success-alert' and (text() = '
+           successfully create user
+         ' or . = '
+           successfully create user
+         ')]</value>
+      <webElementGuid>904228f4-654d-417b-8dd2-dcd8637ad83d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

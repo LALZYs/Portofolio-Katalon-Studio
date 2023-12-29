@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masih belum bisa click requester</description>
+   <name>TC 04 - User menambahkan new account reqester</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecf55060-d7bf-46e5-99e5-86b62c1cab73</testCaseGuid>
+</TestCaseEntity>

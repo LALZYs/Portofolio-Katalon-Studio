@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email mbilalrafifyahoo.com is already registered</name>
+   <tag></tag>
+   <elementGuidId>743ee03e-44ea-4f9e-beb7-b851aa9a4f15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='err-alert']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#err-alert</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96346f34-c48c-4c7e-b22a-ad5e7ee84ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger</value>
+      <webElementGuid>1bc01ab3-abdb-4b40-b1d4-39d2bf634f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>err-alert</value>
+      <webElementGuid>eae614bd-c529-46ca-8e94-827c6c0c57c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>ca95f5d3-ab49-437d-a586-16499b0b1ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email 'mbilalrafif@yahoo.com' is already registered</value>
+      <webElementGuid>28533f26-d9b2-4e42-80bb-6257f43c81da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;err-alert&quot;)</value>
+      <webElementGuid>61da158f-7f82-4d9c-9d55-0017b07bbdd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='err-alert']</value>
+      <webElementGuid>eba7ea7f-7fb1-48a2-a9d7-91ea0950b3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='successfully create user'])[1]/following::div[1]</value>
+      <webElementGuid>14963d52-a344-4104-a805-a1b3a725011b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User'])[1]/following::div[5]</value>
+      <webElementGuid>28c4f792-180a-4282-86d9-98122a1c4f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::div[1]</value>
+      <webElementGuid>6c624524-2851-4943-b4ab-4f74116f16db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>19bd84e9-bfe1-4afc-a905-e237097a62e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'err-alert' and (text() = concat(&quot;Email &quot; , &quot;'&quot; , &quot;mbilalrafif@yahoo.com&quot; , &quot;'&quot; , &quot; is already registered&quot;) or . = concat(&quot;Email &quot; , &quot;'&quot; , &quot;mbilalrafif@yahoo.com&quot; , &quot;'&quot; , &quot; is already registered&quot;))]</value>
+      <webElementGuid>afa9c7b0-4569-4279-819c-29a340982f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

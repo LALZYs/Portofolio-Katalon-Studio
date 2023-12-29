@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 08 - User login sebagai requester</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2c99f63-d8fa-4674-830e-8b51b00bef22</testCaseGuid>
+</TestCaseEntity>

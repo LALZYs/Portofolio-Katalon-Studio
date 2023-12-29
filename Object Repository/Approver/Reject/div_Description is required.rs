@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Description is required</name>
+   <tag></tag>
+   <elementGuidId>899417be-e40f-4eb4-83d1-a7ecbc8ed0a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='errorMessageReject']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#errorMessageReject</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e75ad96-a8b1-49f8-abed-bcfcf1ec004a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorMessageReject</value>
+      <webElementGuid>a178e2e0-fee9-4207-8bd7-d67f1040b9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-2 alert alert-danger</value>
+      <webElementGuid>824fe9c6-4ef1-4eaf-ac4d-186b978e580f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Description is required</value>
+      <webElementGuid>28f63ee4-1579-4202-b72c-e947d814769d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;errorMessageReject&quot;)</value>
+      <webElementGuid>5007d275-54ba-47d0-bc2d-2bdd55abf9ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='errorMessageReject']</value>
+      <webElementGuid>b276dc38-5cf7-4aae-8c19-5919dacabfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rejectModal']/div/div/div[2]/div</value>
+      <webElementGuid>403a2ab8-9825-4698-9b85-ede4515f823e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[2]/following::div[1]</value>
+      <webElementGuid>48f0fe87-7244-4ec6-9bae-8fe883fec987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Transaction'])[1]/following::div[3]</value>
+      <webElementGuid>7af5d8bd-1382-4f43-b0db-303ac7dd3ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[4]/preceding::div[1]</value>
+      <webElementGuid>096eb457-1bff-4246-87a6-c9cddf6da3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[5]</value>
+      <webElementGuid>1bb96654-d9e0-4585-aeb6-73ec879fbdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Description is required']/parent::*</value>
+      <webElementGuid>7d0daebd-9b09-4fa5-851c-44271119cb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div</value>
+      <webElementGuid>2c66d7f3-63fa-4d72-8763-23dcb255e940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'errorMessageReject' and (text() = 'Description is required' or . = 'Description is required')]</value>
+      <webElementGuid>5d177344-f25f-4c62-87bc-8772a2118fc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

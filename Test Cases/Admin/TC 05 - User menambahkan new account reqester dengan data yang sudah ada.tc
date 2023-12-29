@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masih belum bisa click requester</description>
+   <name>TC 05 - User menambahkan new account reqester dengan data yang sudah ada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e9ad126-6981-4c80-81af-2f06e2255d42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebb767c7-9891-4c4d-86c3-65ec4c2f0727</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Requester'</defaultValue>
+      <description></description>
+      <id>ebb767c7-9891-4c4d-86c3-65ec4c2f0727</id>
+      <masked>false</masked>
+      <name>label</name>
+   </variable>
+</TestCaseEntity>

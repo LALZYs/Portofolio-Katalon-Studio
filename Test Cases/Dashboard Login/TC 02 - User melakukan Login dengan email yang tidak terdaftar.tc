@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 - User melakukan Login dengan email yang tidak terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7e075ca-f593-411f-ab80-3350ec841be7</testCaseGuid>
+</TestCaseEntity>

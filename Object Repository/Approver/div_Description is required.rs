@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Description is required</name>
+   <tag></tag>
+   <elementGuidId>9e9b4238-0881-41be-9afd-f02fa53544a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='errorMessage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#errorMessage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df76df8d-5e84-421c-be71-43a1d3fd1cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorMessage</value>
+      <webElementGuid>e1d53d0a-2171-44be-9e93-a0915cbcb1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-2 alert alert-danger</value>
+      <webElementGuid>c227b55e-f1bf-41ec-8717-95ea48f6e56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Description is required</value>
+      <webElementGuid>ee9aca1f-036e-4fba-95ab-de062138b5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;errorMessage&quot;)</value>
+      <webElementGuid>3941ee62-2dbc-4cce-8e27-a34f3d45462c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='errorMessage']</value>
+      <webElementGuid>a0f57d1c-ded5-460f-93a1-d75c20f8e7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approveModal']/div/div/div[2]/div</value>
+      <webElementGuid>9ae29a58-df97-4015-a831-52f1541e4bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[1]/following::div[1]</value>
+      <webElementGuid>3eee0024-0212-49e0-a6b8-5c95daf52a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve Transaction'])[1]/following::div[3]</value>
+      <webElementGuid>2e2e5e50-6cde-42d9-9861-13bf813722a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[4]/preceding::div[1]</value>
+      <webElementGuid>c763c6b0-b6d1-4ae3-92c4-13dceda50f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Transaction'])[1]/preceding::div[2]</value>
+      <webElementGuid>4f746d27-aa5a-406c-ad39-2ef7df1cb6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Description is required']/parent::*</value>
+      <webElementGuid>704fe40e-5af0-4d8f-a05b-fac8d9504c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/div/div[2]/div</value>
+      <webElementGuid>664813ae-d013-478f-92bd-a4cfb82ce007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'errorMessage' and (text() = 'Description is required' or . = 'Description is required')]</value>
+      <webElementGuid>4d804728-2315-44bd-a978-bfb10a309e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

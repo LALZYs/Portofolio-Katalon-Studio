@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 - User melakukan reject tanpa mengisi deskripsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb2609de-2394-4fdb-b7f9-636c61d16035</testCaseGuid>
+</TestCaseEntity>
