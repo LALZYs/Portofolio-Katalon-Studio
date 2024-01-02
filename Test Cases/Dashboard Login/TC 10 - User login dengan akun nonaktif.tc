@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 10 - User login dengan akun nonaktif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>756e7f58-c574-42cb-94db-ce6e59e8290b</testCaseGuid>
+</TestCaseEntity>

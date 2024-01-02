@@ -21,15 +21,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://10.202.200.141/login')
 
-WebUI.setText(findTestObject('Object Repository/Login as approver/Page_Ofin  New Partner/input_Email_email'), 'ahmd2@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Login as approver/Page_Ofin  New Partner/input_Email_email'), 'mbilalrafif@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Login as approver/Page_Ofin  New Partner/input_Password_password'), 
-    'GYDmRgS5yd5PL6pQTxDpCg==')
+    'kVofG5CMoa8scSL6PtM5mg==')
 
 WebUI.click(findTestObject('Object Repository/Login as approver/Page_Ofin  New Partner/button_Log in'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login as approver/Page_Ofin  Cash In/label_List of Items Requiring Approval'), 
-    'List of Items Requiring Approval')
+WebUI.verifyElementVisible(findTestObject('User login dengan akun nonaktif/div_User account is inactive'))
 
 WebUI.closeBrowser()
 
