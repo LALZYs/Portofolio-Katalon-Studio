@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Reject</name>
    <tag></tag>
-   <elementGuidId>5130a071-cfdd-4932-839c-80cb0b2d3ea0</elementGuidId>
+   <elementGuidId>be031062-60ef-4bf1-a355-1c8382f1e0a8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@onclick='showRejectModal(62)']</value>
+         <value>//button[@onclick='showRejectModal(67)']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>890c53b1-6b00-484e-9929-e98a1cec45bc</webElementGuid>
+      <webElementGuid>46a4ef15-ff60-4f86-9eb4-a301bc0391c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-xs btn-outline-danger</value>
-      <webElementGuid>665f677f-8d36-481e-a8e0-13f064883a2e</webElementGuid>
+      <webElementGuid>fd866096-02b9-4089-993c-e03716389f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>showRejectModal(62)</value>
-      <webElementGuid>ff2e1217-091d-4845-87df-76235ab53df1</webElementGuid>
+      <value>showRejectModal(67)</value>
+      <webElementGuid>f24478b1-03f1-4717-9b1c-44d6eb312686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Reject</value>
-      <webElementGuid>c79f7f83-0c18-4a8b-a9a6-81c69256bde9</webElementGuid>
+      <webElementGuid>e2f2719c-db43-4b21-b6ba-ba7da593431c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tbl_report&quot;)/tr[@class=&quot;text-center&quot;]/td[9]/button[@class=&quot;btn btn-xs btn-outline-danger&quot;]</value>
-      <webElementGuid>ee1a8872-1535-451c-867d-7d8311518099</webElementGuid>
+      <webElementGuid>f5b46d17-53e0-434a-8c03-cd8691c320cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@onclick='showRejectModal(62)']</value>
-      <webElementGuid>e02e5374-fa42-4621-b04d-54b1104b9f86</webElementGuid>
+      <value>//button[@onclick='showRejectModal(67)']</value>
+      <webElementGuid>c1dccf35-9a4d-4c67-8c69-c5d73451b2fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tbody[@id='tbl_report']/tr/td[9]/button[2]</value>
-      <webElementGuid>373d0eeb-6988-48b6-8514-b139770fdc74</webElementGuid>
+      <webElementGuid>f695af2c-07c9-4303-96cb-90c9e8b5e57e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/following::button[1]</value>
-      <webElementGuid>8fcea3ed-43ad-42d0-8f79-023fc3addc41</webElementGuid>
+      <webElementGuid>ce815ccf-d633-479c-9525-5f4bb78f8fef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,55 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='pending'])[1]/following::button[2]</value>
-      <webElementGuid>bf8f5eba-4213-40ab-8025-978bbe29124b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Data: 1'])[1]/preceding::button[1]</value>
-      <webElementGuid>690a5ca3-ba8d-4826-996e-67cb9aaf48b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::button[1]</value>
-      <webElementGuid>e6e8d6f9-97d7-4d23-a5f3-bdd69fbcb386</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Reject']/parent::*</value>
-      <webElementGuid>b631410f-c578-418f-953a-58f1acc162cb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[9]/button[2]</value>
-      <webElementGuid>eecddc55-8ebe-414d-9456-ffc9121e4b6a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
-      <webElementGuid>cca541e5-7c62-45b7-873c-28b89a7f89e7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@onclick='showRejectModal(61)']</value>
-      <webElementGuid>d1bf5cba-979b-4f0f-9aa9-599883e1a0aa</webElementGuid>
+      <webElementGuid>acb5f589-7561-46c0-8d16-3d40ae909e64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,30 +94,46 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ahmd'])[2]/preceding::button[1]</value>
-      <webElementGuid>6429e2a5-ed2f-45e2-a764-9cfc49064d56</webElementGuid>
+      <webElementGuid>164060e3-ad33-4f66-8da5-2bf87b815007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTING 1'])[2]/preceding::button[1]</value>
-      <webElementGuid>6df46f8c-5453-4c54-8b19-a58bc1b18b4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[2]/preceding::button[1]</value>
+      <webElementGuid>c731c548-151e-46e5-b47c-a0ae8cf9b585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reject']/parent::*</value>
+      <webElementGuid>461e962e-a1dc-404c-bf77-107eff0f748c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/button[2]</value>
+      <webElementGuid>d2fe3f10-0685-4643-9d81-eb938fa66056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>d9c4cb05-fe56-43e1-8b43-9e3c378db41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@onclick='showRejectModal(53)']</value>
-      <webElementGuid>0171efc5-3924-46a9-a8f1-5ccc10b4b9c9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing CASHIN OFIN 4'])[1]/preceding::button[1]</value>
-      <webElementGuid>2a92d92b-7299-4b29-b9b5-54581148af94</webElementGuid>
+      <value>//button[@onclick='showRejectModal(66)']</value>
+      <webElementGuid>55b70b2d-e159-4417-9bd3-2daae0a99fb7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

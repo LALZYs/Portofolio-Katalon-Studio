@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan approval tanpa mengisi deskripsi</description>
+   <name>TC 02 - User melakukan approval tanpa mengisi deskripsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47e02b9-134d-4b16-baaf-1cac920b720e</testCaseGuid>
+</TestCaseEntity>

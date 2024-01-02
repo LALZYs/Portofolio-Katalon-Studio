@@ -21,25 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://10.202.200.141/login')
 
-WebUI.setText(findTestObject('Object Repository/Approver/input_Email_email'), 'mbilalrafif@gmail.com')
+WebUI.setText(findTestObject('Approver/Cash Out/Reject/input_Email_email'), 'ahmd2@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Approver/input_Password_password'), '2VQR8GtCg31QG1LHCZmJmg==')
+WebUI.setEncryptedText(findTestObject('Approver/Cash Out/Reject/input_Password_password'), 'GYDmRgS5yd5PL6pQTxDpCg==')
 
-WebUI.click(findTestObject('Object Repository/Approver/button_Log in'))
+WebUI.click(findTestObject('Object Repository/Approver/Cash Out/Reject/button_Log in'))
 
-WebUI.click(findTestObject('Approver/button_Approve'))
+WebUI.click(findTestObject('Object Repository/Approver/Cash Out/Reject/i_Cash In_mdi mdi-account-cash'))
 
-WebUI.verifyElementVisible(findTestObject('Approver/Approve/div_Approve Transaction'))
+WebUI.click(findTestObject('Approver/Cash Out/Reject/button_Reject'))
 
-WebUI.verifyElementVisible(findTestObject('Approver/Approve/div_Description'))
+WebUI.verifyElementVisible(findTestObject('Approver/Reject/div_Reject Transaction'))
 
-WebUI.verifyElementVisible(findTestObject('Approver/input_Description_descriptionApprove'))
+WebUI.verifyElementVisible(findTestObject('Approver/Reject/div_Description'))
 
-WebUI.setText(findTestObject('Object Repository/Approver/input_Description_descriptionApprove'), 'oke')
+WebUI.verifyElementVisible(findTestObject('Approver/Reject/div_Reject'))
 
-WebUI.verifyElementVisible(findTestObject('Approver/Approve/div_Approve'))
+WebUI.click(findTestObject('Approver/Cash Out/Reject/button_Reject_1'))
 
-WebUI.click(findTestObject('Object Repository/Approver/button_Approve_1'))
+WebUI.verifyElementVisible(findTestObject('Approver/Reject/div_Description is required'))
 
 WebUI.closeBrowser()
 

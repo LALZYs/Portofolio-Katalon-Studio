@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Cash In_mdi mdi-account-cash</name>
+   <tag></tag>
+   <elementGuidId>8fa3e0e4-1c70-4e20-bf48-73cf60fb39ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftside-menu-container']/div/div[2]/div/div/div/ul/li[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c350596b-cb30-409f-a7ae-628ca18b6507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-account-cash</value>
+      <webElementGuid>51c70d07-3a8b-4caf-a5ec-d22fc0f0a8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftside-menu-container&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/ul[@class=&quot;side-nav&quot;]/li[@class=&quot;side-nav-item&quot;]/a[@class=&quot;side-nav-link&quot;]/i[@class=&quot;mdi mdi-account-cash&quot;]</value>
+      <webElementGuid>06c4cea0-d927-4d68-8a05-a6653d172074</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftside-menu-container']/div/div[2]/div/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>27b6faf8-e2b0-4010-8e08-aedfa5ef5645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>0bbcdeda-61e1-4068-8ee0-c615645d75a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
