@@ -21,14 +21,24 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://10.202.200.141/login')
 
-WebUI.setText(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/input_Email_email'), 'mbilalrafif@ymail.com')
+WebUI.setText(findTestObject('Object Repository/Change Password/Approver/input_Email_email'), 'testing@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Approver/input_Password_password'), 'kVofG5CMoa8scSL6PtM5mg==')
+
+WebUI.click(findTestObject('Object Repository/Change Password/Approver/button_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Change Password/Approver/img_approver - Testing_rounded-circle'))
+
+WebUI.click(findTestObject('Object Repository/Change Password/Approver/span_Change Password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Approver/input_failed change password_oldPassword'), 
     'kVofG5CMoa8scSL6PtM5mg==')
 
-WebUI.click(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/button_Log in'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Approver/input__newPassword'), 'Uro0ZodcRWL3wYWzTYBkpw==')
 
-WebUI.verifyElementVisible(findTestObject('Email Tidak Terdaftar/Page_Ofin  New Partner/div_email tidak terdaftar'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Approver/input__confirmPassword'), 'Uro0ZodcRWL3wYWzTYBkpw==')
+
+WebUI.click(findTestObject('Object Repository/Change Password/Approver/button_Submit'))
 
 WebUI.closeBrowser()
 

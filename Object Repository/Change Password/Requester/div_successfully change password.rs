@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_successfully change password</name>
+   <tag></tag>
+   <elementGuidId>0e35d1df-a51c-429e-aceb-bf8b49958325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#success-alert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='success-alert']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>809f7cee-8363-434b-8acc-34cd2e9275ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-primary</value>
+      <webElementGuid>30d6747a-6bcd-457a-ad79-2188635809a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>success-alert</value>
+      <webElementGuid>39b0f448-5966-40df-a8f9-6687e4d61b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>85f2a883-91f4-46ca-a555-253126ae32b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+           successfully change password
+         </value>
+      <webElementGuid>4cb6cb9d-4613-4602-9bc0-833c6e906931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;success-alert&quot;)</value>
+      <webElementGuid>e61f483b-4b8e-44e5-97f6-1c92494d1198</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='success-alert']</value>
+      <webElementGuid>2f86e45a-9e1c-451c-8956-6021d6500837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/following::div[4]</value>
+      <webElementGuid>0bc99489-6512-4b23-8378-2e2e2f664793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[17]</value>
+      <webElementGuid>d6fd2bca-a1ba-4bdb-9d99-888b22113a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='failed change password'])[1]/preceding::div[1]</value>
+      <webElementGuid>464512e6-fa99-449b-9de8-391b2c4813c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='successfully change password']/parent::*</value>
+      <webElementGuid>d4ab6126-9c08-4e49-816e-88fa44eeac02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>48c87e33-61bc-4300-a47a-5fc49143f940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'success-alert' and (text() = '
+           successfully change password
+         ' or . = '
+           successfully change password
+         ')]</value>
+      <webElementGuid>73e69b0c-d9f3-4acd-aa9d-2066017a9f88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -74,4 +74,11 @@
       <testCaseId>Test Cases/Dashboard Login/TC 09 - User login sebagai approver</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c5509bc5-6d67-47b3-8196-98dfea5d224d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dashboard Login/TC 10 - User login dengan akun nonaktif</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

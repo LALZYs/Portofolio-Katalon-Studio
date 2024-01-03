@@ -23,7 +23,7 @@ WebUI.navigateToUrl('http://10.202.200.141/login')
 
 WebUI.setText(findTestObject('Object Repository/Approver/input_Email_email'), 'mbilalrafif@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Approver/input_Password_password'), '2VQR8GtCg31QG1LHCZmJmg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Approver/input_Password_password'), 'kVofG5CMoa8scSL6PtM5mg==')
 
 WebUI.click(findTestObject('Object Repository/Approver/button_Log in'))
 

@@ -6,12 +6,12 @@
    <elementGuidId>0a513cf4-e30c-4b4b-8617-902f18501989</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@onclick='showModal(66)']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-xs.btn-outline-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='showModal(67)']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ab3e2418-a073-42ad-8fe9-1d7be8fd0275</webElementGuid>
+      <webElementGuid>ee027ee8-d336-43b7-9a68-076bcb612975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-xs btn-outline-primary</value>
-      <webElementGuid>22f29fe2-9e33-48fd-ba41-81bd23efcfcc</webElementGuid>
+      <webElementGuid>8af508fa-2808-4edc-bb88-1f590796361a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>showModal(66)</value>
-      <webElementGuid>9d2c9d18-8d49-43ed-adf3-1b4809087ade</webElementGuid>
+      <value>showModal(67)</value>
+      <webElementGuid>ace830ca-c609-4fec-80da-12caa5f38410</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approve</value>
-      <webElementGuid>dfd7b5c5-8c22-4161-81a3-5649b17cdbb2</webElementGuid>
+      <webElementGuid>a7723218-6d79-459a-9f01-570f50e04738</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tbl_report&quot;)/tr[@class=&quot;text-center&quot;]/td[9]/button[@class=&quot;btn btn-xs btn-outline-primary&quot;]</value>
-      <webElementGuid>0f17a670-4516-481d-b75c-a3f72ae9f549</webElementGuid>
+      <webElementGuid>891a686c-c31e-4f6f-93c3-f1c4bbc5afa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@onclick='showModal(66)']</value>
-      <webElementGuid>a659e4c4-d6ac-4a9e-b12d-16d24973544c</webElementGuid>
+      <value>//button[@onclick='showModal(67)']</value>
+      <webElementGuid>e0d5165d-20bc-423b-89ff-9320f5c4e504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tbody[@id='tbl_report']/tr/td[9]/button</value>
-      <webElementGuid>2d7b1aeb-2005-45bc-8fa0-293a674bdc2c</webElementGuid>
+      <webElementGuid>e1a44c7f-b624-4240-8cae-eda42f910809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='pending'])[1]/following::button[1]</value>
-      <webElementGuid>bfa117fd-a17d-4033-bba1-957341a8718f</webElementGuid>
+      <webElementGuid>52e7421f-2f0c-4ffd-b0e6-86140d95937b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::button[1]</value>
-      <webElementGuid>c4cd9c50-f74f-4fd5-9e9b-17184cd93484</webElementGuid>
+      <webElementGuid>d63ac954-c2d7-4a61-8fcb-33793f2ede03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::button[1]</value>
-      <webElementGuid>19789b52-2431-4743-91f4-18b871d65e91</webElementGuid>
+      <webElementGuid>59936628-090c-4b60-9c39-14d08834b139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ahmd'])[2]/preceding::button[2]</value>
-      <webElementGuid>299d833d-e00f-4bbc-b5e2-55d76354a82e</webElementGuid>
+      <webElementGuid>c390c27a-3029-4f45-9594-2f0edb22dead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
-      <webElementGuid>fbb1f9d6-fe17-430c-9e86-dc319672dfe3</webElementGuid>
+      <webElementGuid>0feeac7e-1bc8-45b5-b045-e474db837e13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[9]/button</value>
-      <webElementGuid>ca7b0a3e-5969-4d0e-9596-8642e8ed957f</webElementGuid>
+      <webElementGuid>3cb8f218-ef83-421b-8dc0-92208dc56a7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Approve' or . = 'Approve')]</value>
-      <webElementGuid>32777d52-2908-40e9-ab38-e99b62f15cb7</webElementGuid>
+      <webElementGuid>1fe0afc8-09f8-4d61-9f56-7706603d7cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='showModal(66)']</value>
+      <webElementGuid>a659e4c4-d6ac-4a9e-b12d-16d24973544c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

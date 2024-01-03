@@ -21,14 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://10.202.200.141/login')
 
-WebUI.setText(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/input_Email_email'), 'mbilalrafif@ymail.com')
+WebUI.setText(findTestObject('Object Repository/Change Password/Requester/input_Email_email'), 'testing1@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/input_Password_password'), 
-    'kVofG5CMoa8scSL6PtM5mg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Requester/input_Password_password'), 'kVofG5CMoa8scSL6PtM5mg==')
 
-WebUI.click(findTestObject('Object Repository/Email Tidak Terdaftar/Page_Ofin  New Partner/button_Log in'))
+WebUI.click(findTestObject('Object Repository/Change Password/Requester/button_Log in'))
 
-WebUI.verifyElementVisible(findTestObject('Email Tidak Terdaftar/Page_Ofin  New Partner/div_email tidak terdaftar'))
+WebUI.click(findTestObject('Object Repository/Change Password/Requester/a_requester - testing1'))
+
+WebUI.click(findTestObject('Object Repository/Change Password/Requester/span_Change Password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Requester/input_failed change password_oldPassword'), 
+    'j0D+7cY3I/WKRjwY6TnN0A==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Requester/input__newPassword'), 'kVofG5CMoa8scSL6PtM5mg==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Change Password/Requester/input__confirmPassword'), 'kVofG5CMoa8scSL6PtM5mg==')
+
+WebUI.click(findTestObject('Object Repository/Change Password/Requester/button_Submit'))
+
+WebUI.verifyElementVisible(findTestObject('Change Password/Requester/div_successfully change password'))
 
 WebUI.closeBrowser()
 

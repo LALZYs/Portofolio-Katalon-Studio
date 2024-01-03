@@ -12,62 +12,42 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>0f64d594-3f90-4de7-9d91-2dfa9a8804b8</testSuiteGuid>
    <testCaseLink>
-      <guid>236b6067-8059-4206-af79-aacfaa01287e</guid>
+      <guid>3e45e0cd-2f18-4aa2-ae3c-7e998ac5f6f1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 01 - User menambahkan new account approver</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d4bdaaa6-5444-404c-b8e4-70e3940c8630</guid>
+      <guid>694423e7-832f-4518-b2dd-4f9313810930</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 02 - User menambahkan new account approver dengan data yang sudah ada</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ebb30ff6-2b42-497e-92dd-fe2e2bed79c5</guid>
+      <guid>e4767c94-a216-410d-ad2a-94e976f42fd2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 03 - User click button reset saat add new account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>57177b5d-cffb-426e-b2b9-342a8d842a69</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin/TC 04 - User menambahkan new account reqester</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b375627b-e177-45a3-bd03-c3b8fd319253</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin/TC 05 - User menambahkan new account reqester dengan data yang sudah ada</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ebb767c7-9891-4c4d-86c3-65ec4c2f0727</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0d6ece28-a67a-4ce7-a6e2-831350dd8e18</guid>
+      <guid>c8e2f2d7-2775-4a7d-9e82-e0871d62513a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 06 - User menggunakan password yang berbeda saat confirm password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c71c7959-db91-47f4-bba6-640ef40b0f2c</guid>
+      <guid>0bb0d6d1-eceb-4ff5-909b-783960d46dfd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 07 - User mengaktifkan akun</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f8aca175-f69a-4f70-b85a-7ce5d4740ab8</guid>
+      <guid>d22fa7b8-70aa-48e0-adf7-517985410460</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Admin/TC 08 - User menonaktifkan akun</testCaseId>
